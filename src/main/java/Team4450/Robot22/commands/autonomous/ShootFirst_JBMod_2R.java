@@ -20,7 +20,7 @@ import edu.wpi.first.wpilibj2.command.WaitCommand;
 /**
  * Shoot loaded ball then drive out of starting area.
  */
-public class ShootFirst_JBMod extends CommandBase
+public class ShootFirst_JBMod_2R extends CommandBase
 {
 	private final DriveBase driveBase;
 
